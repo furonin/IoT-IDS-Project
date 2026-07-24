@@ -36,5 +36,4 @@ The system consists of:
 3.  **Test the System**
     Go to `http://127.0.0.1:8000/docs` and use the `/predict` endpoint to simulate attacks.
 
-## Author
-**Furkan Kartal** - Computer Engineering Student at Haliç University.
+
